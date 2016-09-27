@@ -12,7 +12,12 @@
 
 #Review Solusi 2
 ##Pros
++ Ada validasi di awal function untuk memastikan value merupakan angka atau data dengan type number;
++ Code singkat dengan hanya total 7 line untuk mengolah proses konversi dari arabic number ke roman number
+
 ##Cons
+- Untuk menentukan nilai dari roman num menggunakan metode yang cukup rumit.
+
 
 #Review Solusi 3
 ##Pros
