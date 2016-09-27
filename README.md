@@ -16,4 +16,6 @@
    -roman_numerals yang pertama karena sangat dinamis dan efisien dan juga mudah dimengerti.
 3. -ada satu pola yang bug sehingga menghasilkan output yang tidak sempurna
    -dampak dari pola yang tidak dinamis itu membuat bug.
-4. -tidak
+4. -Apakah perbedaan antara satu code dengan code lainnya. Selain itu, apakah perbedaan antar code ini mempengaruhi performa.
+   -Iya, karena kita sudah melihat beberapa macam solusi. Tentunya kita lebih mengerti solusi yang paling optimal.
+   -Tidak.
